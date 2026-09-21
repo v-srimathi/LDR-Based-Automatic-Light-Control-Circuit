@@ -26,7 +26,8 @@ In this project, the LDR is used to sense ambient brightness and control an LED 
 
 # 5\. Circuit Assembly
 
-           The circuit was assembled on a breadboard using the components specified above. The LDR acts as the light-sensing element, while the NPN transistor functions as the electronic switching device for the LED.  
+           The circuit was assembled on a breadboard using the components specified above. 
+           The LDR acts as the light-sensing element, while the NPN transistor functions as the electronic switching device for the LED.  
 Two operating conditions were tested:
 
 1. High ambient brightness  
