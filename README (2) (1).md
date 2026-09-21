@@ -18,11 +18,11 @@ In this project, the LDR is used to sense ambient brightness and control an LED 
 * Breadboard – 1  
 * Connecting wires – As required
 
-  ![][image1]
+  ![component](component3.jpeg)
 
 4\. Circuit Schematic  
               The schematic diagram represents the electrical connection and operating arrangement of the LDR, transistor, LED, resistors, and 9 V DC supply.  
-![][image2]
+![schematic](schematic3.jpeg)
 
 # 5\. Circuit Assembly
 
@@ -31,7 +31,7 @@ Two operating conditions were tested:
 
 1. High ambient brightness  
 2. Low ambient brightness / darkness  
-   ![][image3]
+   ![circuit](circuit3.jpeg)
 
 # 6\. Working Principle
 
@@ -39,12 +39,13 @@ Two operating conditions were tested:
 
                  When the LDR is exposed to high outdoor brightness, its resistance decreases. This causes the transistor to remain OFF, resulting in the LED being switched OFF.  
 Bright Light → Transistor OFF → LED OFF  
-![][image4]
+![principle](principle3.1.jpeg)
 
 ## **6.2 Low Ambient Brightness / Darkness**
 
                  When the surrounding light intensity decreases, the resistance of the LDR increases. This causes the transistor to switch ON, allowing current to flow through the LED.  
-Low Light/Darkness → Transistor ON → LED ON![][image5]
+Low Light/Darkness → Transistor ON → LED ON
+![principle](principle3.2.jpeg)
 
 # 7\. Experimental Procedure
 
@@ -63,14 +64,14 @@ Low Light/Darkness → Transistor ON → LED ON![][image5]
 
 Under high ambient brightness, the LDR senses strong illumination and the LED remains OFF.  
 Result: Bright environment → LED OFF  
-![][image6]
+![result](result3.1.jpeg)
 
 ## **8.2 Low Brightness / Dark Result**
 
 Under low ambient brightness or darkness, the LDR senses reduced illumination and the LED automatically turns ON.  
 Result: Dark environment → LED ON
 
-![][image7]
+![result](result3.2.jpeg)
 
 # 9\. Applications
 
